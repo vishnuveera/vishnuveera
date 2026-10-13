@@ -35,6 +35,14 @@ A developer utility that converts XML Schema (XSD) definitions into OpenAPI-orie
 
 [View Repository](https://github.com/vishnuveera/xsd-to-openapi-schema-converter)
 
+### 4. IT Ticket Analysis Agent
+
+An LLM-powered agent for IT service-management analytics. It processes CSV and Excel ticket data, summarizes recurring issues, groups similar tickets using UMAP and HDBSCAN, identifies noise clusters, answers analytical questions through SQL, and generates charts and Excel reports.
+
+**Technologies:** Python · LangGraph · LangChain · Azure OpenAI · Pandas · UMAP · HDBSCAN · FastAPI · SQL
+
+[View Repository](https://github.com/vishnuveera/ticket-analysis-agent)
+
 ## 🛠️ Technical Skills
 
 **Generative AI & Agentic AI:** LLM applications, LangChain, LangGraph, RAG, tool calling
